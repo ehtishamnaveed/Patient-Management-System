@@ -1,4 +1,4 @@
 # Patient-Management-System
-![image](https://user-images.githubusercontent.com/75159969/230854970-43d39fcd-51e8-4408-a9a5-84ddc3fd1fa4.png)
+![image](https://user-images.githubusercontent.com/75159969/230855106-8a3e16d9-deb6-4e77-89b5-4c8ed4bad939.png)
 
 
