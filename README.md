@@ -15,6 +15,7 @@ To run this project, you will need to have the following software installed on y
 - Git version control system
 
 `Note:` The application uses a non-null layout, so it may not be resizable on some screens.
+
 `Username`:C++     `Password`:2000
 
 # Getting Started
