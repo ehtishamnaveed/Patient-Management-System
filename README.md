@@ -16,13 +16,13 @@ To run this project, you will need to have the following software installed on y
 
 `Note:` The application uses a non-null layout, so it may not be resizable on some screens.
 
-`Username`:C++     `Password`:2000
-
 # Getting Started
 To use the application, follow the steps below:
 1. Clone the project repository to your local machine
 2. Open the project in Netbeans IDE
 3. Build the `Main.java` file and run the application
+
+Username is `c++` and Password is `2000`  
 
 # Screen Shots
 ![image](https://user-images.githubusercontent.com/75159969/230855106-8a3e16d9-deb6-4e77-89b5-4c8ed4bad939.png)
